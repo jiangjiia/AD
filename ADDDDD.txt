@@ -1,3 +1,4 @@
 ||jads.co^
-||baidu.com^
+@@||baidu.com^
 ||souhu.com^
+||example.org^
