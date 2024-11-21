@@ -2,3 +2,4 @@
 ||baidu.com^
 ||souhu.com^
 ||gm.5g18.com^
+||poweredby.jads.co/js/jads.js^
